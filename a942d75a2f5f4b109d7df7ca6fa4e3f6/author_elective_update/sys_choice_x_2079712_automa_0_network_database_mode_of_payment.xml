@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mode_of_payment" table="x_2079712_automa_0_network_database" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mode_of_payment</element>
+            <name>x_2079712_automa_0_network_database</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 18:22:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mode_of_payment</sys_name>
+            <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+            <sys_update_name>sys_choice_x_2079712_automa_0_network_database_mode_of_payment</sys_update_name>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 18:22:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_payment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UPI</label>
+            <language>en</language>
+            <name>x_2079712_automa_0_network_database</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 18:22:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 18:22:54</sys_updated_on>
+            <value>upi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_payment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CARD</label>
+            <language>en</language>
+            <name>x_2079712_automa_0_network_database</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 18:22:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 18:22:54</sys_updated_on>
+            <value>card</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

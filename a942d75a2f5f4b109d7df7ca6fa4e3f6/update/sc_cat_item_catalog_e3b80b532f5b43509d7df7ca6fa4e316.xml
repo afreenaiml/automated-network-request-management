@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Network Request">831807132f5b43509d7df7ca6fa4e33b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>vr_student</sys_created_by>
+        <sys_created_on>2026-09-18 19:33:40</sys_created_on>
+        <sys_id>e3b80b532f5b43509d7df7ca6fa4e316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Network Request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_e3b80b532f5b43509d7df7ca6fa4e316</sys_update_name>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-18 19:33:40</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

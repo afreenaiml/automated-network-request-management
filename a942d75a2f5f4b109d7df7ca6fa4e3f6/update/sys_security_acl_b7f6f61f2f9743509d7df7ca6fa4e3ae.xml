@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow create for records in x_2079712_automa_0_network_database, for users with role x_2079712_automa_0.user.</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2079712_automa_0_network_database</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>vr_student</sys_created_by>
+        <sys_created_on>2026-09-18 18:16:08</sys_created_on>
+        <sys_id>b7f6f61f2f9743509d7df7ca6fa4e3ae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_2079712_automa_0_network_database</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+        <sys_update_name>sys_security_acl_b7f6f61f2f9743509d7df7ca6fa4e3ae</sys_update_name>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-18 18:16:08</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

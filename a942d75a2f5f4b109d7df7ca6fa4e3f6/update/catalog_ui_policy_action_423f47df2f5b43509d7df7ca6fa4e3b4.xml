@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Network Request">831807132f5b43509d7df7ca6fa4e33b</catalog_item>
+        <catalog_variable>IO:173bcb972f5b43509d7df7ca6fa4e318</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>vr_student</sys_created_by>
+        <sys_created_on>2026-09-18 20:03:10</sys_created_on>
+        <sys_id>423f47df2f5b43509d7df7ca6fa4e3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>existing_id</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_423f47df2f5b43509d7df7ca6fa4e3b4</sys_update_name>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-18 20:03:10</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Existing ID">cdbe079f2f5b43509d7df7ca6fa4e3b3</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>existing_id</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=423f47df2f5b43509d7df7ca6fa4e3b4"/>
+</record_update>

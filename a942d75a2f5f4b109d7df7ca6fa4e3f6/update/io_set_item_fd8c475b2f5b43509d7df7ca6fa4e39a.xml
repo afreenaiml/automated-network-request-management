@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>50</order>
+        <sc_cat_item display_value="Network Request">831807132f5b43509d7df7ca6fa4e33b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>vr_student</sys_created_by>
+        <sys_created_on>2026-09-18 19:50:12</sys_created_on>
+        <sys_id>fd8c475b2f5b43509d7df7ca6fa4e39a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Network Request User Details.Network Request</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+        <sys_update_name>io_set_item_fd8c475b2f5b43509d7df7ca6fa4e39a</sys_update_name>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-18 19:50:12</sys_updated_on>
+        <variable_set display_value="Network Request User Details">376c075b2f5b43509d7df7ca6fa4e3de</variable_set>
+    </io_set_item>
+</record_update>

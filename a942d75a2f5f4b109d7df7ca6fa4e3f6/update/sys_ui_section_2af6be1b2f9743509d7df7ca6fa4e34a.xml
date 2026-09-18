@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2af6be1b2f9743509d7df7ca6fa4e34a" sys_domain="global" table="x_2079712_automa_0_network_database" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>72d2db972f9b43509d7df7ca6fa4e369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>76d2db972f9b43509d7df7ca6fa4e36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>2</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>32d2db972f9b43509d7df7ca6fa4e36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_details</element>
+            <position>3</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>fad2db972f9b43509d7df7ca6fa4e36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_to</element>
+            <position>4</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>b6d2db972f9b43509d7df7ca6fa4e36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_number</element>
+            <position>5</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>72d2db972f9b43509d7df7ca6fa4e36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_connection</element>
+            <position>6</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>3ed2db972f9b43509d7df7ca6fa4e36d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>f6d2db972f9b43509d7df7ca6fa4e36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>8</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
+            <sys_id>b2d2db972f9b43509d7df7ca6fa4e36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_address</element>
+            <position>9</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
+            <sys_id>7ed2db972f9b43509d7df7ca6fa4e36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_amount</element>
+            <position>10</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
+            <sys_id>3ad2db972f9b43509d7df7ca6fa4e370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mode_of_payment</element>
+            <position>11</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
+            <sys_id>c3d2db972f9b43509d7df7ca6fa4e371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>existing_id</element>
+            <position>12</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
+            <sys_id>8fd2db972f9b43509d7df7ca6fa4e371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
+            <sys_id>4bd2db972f9b43509d7df7ca6fa4e372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2079712_automa_0_network_database</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-18 18:16:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2af6be1b2f9743509d7df7ca6fa4e34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2079712_automa_0_network_database</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+            <sys_update_name>sys_ui_section_2af6be1b2f9743509d7df7ca6fa4e34a</sys_update_name>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-18 18:16:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

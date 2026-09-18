@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Application navigation for managing the end-to-end network request lifecycle.</description>
+        <device_type>browser</device_type>
+        <hint>Manage network requests, approvals, and fulfillment</hint>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>vr_student</sys_created_by>
+        <sys_created_on>2026-09-18 19:27:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d17839f2f1b43509d7df7ca6fa4e3de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automated Network Request Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+        <sys_update_name>sys_app_application_6d17839f2f1b43509d7df7ca6fa4e3de</sys_update_name>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-18 19:27:46</sys_updated_on>
+        <title>Automated Network Request Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
