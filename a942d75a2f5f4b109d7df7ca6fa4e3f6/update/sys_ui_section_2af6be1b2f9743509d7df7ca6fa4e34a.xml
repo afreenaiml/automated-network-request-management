@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>72d2db972f9b43509d7df7ca6fa4e369</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>72badee72fd3c3509d7df7ca6fa4e33a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>76d2db972f9b43509d7df7ca6fa4e36a</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>76badee72fd3c3509d7df7ca6fa4e33b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>requested_for</element>
             <position>2</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>32d2db972f9b43509d7df7ca6fa4e36b</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>32badee72fd3c3509d7df7ca6fa4e33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>request_details</element>
             <position>3</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>fad2db972f9b43509d7df7ca6fa4e36b</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>fabadee72fd3c3509d7df7ca6fa4e33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>assignment_to</element>
             <position>4</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>b6d2db972f9b43509d7df7ca6fa4e36c</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>b6badee72fd3c3509d7df7ca6fa4e33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>mobile_number</element>
             <position>5</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>72d2db972f9b43509d7df7ca6fa4e36d</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>72badee72fd3c3509d7df7ca6fa4e33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>type_of_connection</element>
             <position>6</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>3ed2db972f9b43509d7df7ca6fa4e36d</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>3ebadee72fd3c3509d7df7ca6fa4e33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>f6d2db972f9b43509d7df7ca6fa4e36e</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>f6badee72fd3c3509d7df7ca6fa4e33f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>approval_status</element>
             <position>8</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:51</sys_created_on>
-            <sys_id>b2d2db972f9b43509d7df7ca6fa4e36f</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>b2badee72fd3c3509d7df7ca6fa4e340</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:51</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>customer_address</element>
             <position>9</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
-            <sys_id>7ed2db972f9b43509d7df7ca6fa4e36f</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>7ebadee72fd3c3509d7df7ca6fa4e340</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>total_amount</element>
             <position>10</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
-            <sys_id>3ad2db972f9b43509d7df7ca6fa4e370</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>3abadee72fd3c3509d7df7ca6fa4e341</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>mode_of_payment</element>
             <position>11</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
-            <sys_id>c3d2db972f9b43509d7df7ca6fa4e371</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>f2badee72fd3c3509d7df7ca6fa4e342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>existing_id</element>
             <position>12</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
-            <sys_id>8fd2db972f9b43509d7df7ca6fa4e371</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>bebadee72fd3c3509d7df7ca6fa4e342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,15 +186,29 @@
             <element>.end_split</element>
             <position>13</position>
             <sys_created_by>vr_student</sys_created_by>
-            <sys_created_on>2026-09-18 20:17:52</sys_created_on>
-            <sys_id>4bd2db972f9b43509d7df7ca6fa4e372</sys_id>
+            <sys_created_on>2026-09-19 10:51:07</sys_created_on>
+            <sys_id>7abadee72fd3c3509d7df7ca6fa4e343</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
             <sys_updated_by>vr_student</sys_updated_by>
-            <sys_updated_on>2026-09-18 20:17:52</sys_updated_on>
+            <sys_updated_on>2026-09-19 10:51:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>14</position>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-19 10:51:08</sys_created_on>
+            <sys_id>36badee72fd3c3509d7df7ca6fa4e344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_2079712_automa_0_network_database" sys_domain="global" view="Default view">2af6be1b2f9743509d7df7ca6fa4e34a</sys_ui_section>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-19 10:51:08</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

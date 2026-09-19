@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Fulfillment Task Number" language="en" table="x_2079712_automa_0_network_fulfillment_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Fulfillment Task Number</label>
+            <language>en</language>
+            <name>x_2079712_automa_0_network_fulfillment_task</name>
+            <plural>Fulfillment Task Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-19 08:01:08</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Fulfillment Task Number</sys_name>
+            <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+            <sys_update_name>sys_documentation_x_2079712_automa_0_network_fulfillment_task_number_en</sys_update_name>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-19 08:02:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

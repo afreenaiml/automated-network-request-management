@@ -9,13 +9,13 @@
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>Allows users to submit network connection requests with required customer details, connection type, payment information, and justification.</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="Network Request Automation">058855ef2fd783509d7df7ca6fa4e31d</flow_designer_flow>
         <fulfillment_automation_level>fully_automated</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -68,21 +68,21 @@
         <sys_created_by>vr_student</sys_created_by>
         <sys_created_on>2026-09-18 19:33:39</sys_created_on>
         <sys_id>831807132f5b43509d7df7ca6fa4e33b</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Network Request</sys_name>
         <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
         <sys_update_name>sc_cat_item_831807132f5b43509d7df7ca6fa4e33b</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-09-18 20:16:30</sys_updated_on>
+        <sys_updated_by>vr_student</sys_updated_by>
+        <sys_updated_on>2026-09-19 12:38:59</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>17</version>
+        <version>18</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

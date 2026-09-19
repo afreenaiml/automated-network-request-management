@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="network_request" label="Network Request" language="en" table="x_2079712_automa_0_network_fulfillment_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>network_request</element>
+            <help/>
+            <hint/>
+            <label>Network Request</label>
+            <language>en</language>
+            <name>x_2079712_automa_0_network_fulfillment_task</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>vr_student</sys_created_by>
+            <sys_created_on>2026-09-19 08:24:05</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Network Request</sys_name>
+            <sys_package display_value="Automated Network Request Management" source="x_2079712_automa_0">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">a942d75a2f5f4b109d7df7ca6fa4e3f6</sys_scope>
+            <sys_update_name>sys_documentation_x_2079712_automa_0_network_fulfillment_task_network_request_en</sys_update_name>
+            <sys_updated_by>vr_student</sys_updated_by>
+            <sys_updated_on>2026-09-19 08:28:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

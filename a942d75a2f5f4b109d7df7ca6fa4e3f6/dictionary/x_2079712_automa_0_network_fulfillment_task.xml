@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="64d375672f9f83509d7df7ca6fa4e3a7" label="Network Fulfillment Task" max_length="40" name="x_2079712_automa_0_network_fulfillment_task" type="collection">
+        <element label="Work Notes" max_length="40" name="work_notes" type="string"/>
+        <element label="Completion Notes" max_length="40" name="completion_notes" type="string"/>
+        <element label="Short Description" mandatory="true" max_length="40" name="short_description" type="string"/>
+        <element label="Network Request" mandatory="true" max_length="32" name="network_request" reference="x_2079712_automa_0_network_database" type="reference"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Fulfillment Task Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="State" mandatory="true" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Work in Progress" sequence="1" value="work_in_progress"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="network_request"/>
+        </index>
+    </element>
+</database>
